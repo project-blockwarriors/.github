@@ -4,7 +4,7 @@
 
 ![BlockWarriors AI Challenge](blockwarriors-ai-challenge-artwork.webp)
 
-We are excited to announce the **BlockWarriors AI Challenge**, a unique global competition hosted by Princeton's E-Club. This event is designed to bring together the brightest minds in computer science to compete in Minecraft-based PvP minigames. Participants will form teams to design and implement algorithms that control a team of four AI bots.
+We are excited to announce the **BlockWarriors AI Challenge**, a unique global competition hosted by [Princeton University's Entrepreneurial Club](https://www.princetoneclub.com/). This event is designed to bring together the brightest minds in computer science to compete in tournament-based PvP minigames. Participants will form teams to design and implement algorithms that control a team of one to four Minecraft AI bots.
 
 ## Competition Details (NET Spring 2025; details will probably change)
 
